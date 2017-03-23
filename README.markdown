@@ -13,6 +13,8 @@
 ## License
 [Creative Commons BY-SA 4.0+](http://creativecommons.org/licenses/by-sa/4.0/).
 
+本作品亦遵循合理使用(Fair Use)原則使用部份資源，詳見 Resources/ 目錄的說明文件
+
 ## How to contribute
 ### Report project issues
 [Issues · Libre-Knowledge-Making-Platform/Linux-Operating-System-Introduction](https://github.com/Libre-Knowledge-Making-Platform/Linux-Operating-System-Introduction/issues)
